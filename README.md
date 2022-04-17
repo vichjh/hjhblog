@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 技术永无止境
+heroText: 黄嘉浩私人博客-2019
 tagline: HuangJiaHao-2019
 # heroImage: /hero.png
 # heroImageStyle: {
