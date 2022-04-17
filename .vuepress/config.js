@@ -76,7 +76,7 @@ module.exports = {
     // 作者头像
     authorAvatar: '/meng2.jpg',
     // 备案号
-    record: 'xxxx',
+    record: '150-150-41399',
     // 项目开始时间
     startYear: '2019'
     /**
